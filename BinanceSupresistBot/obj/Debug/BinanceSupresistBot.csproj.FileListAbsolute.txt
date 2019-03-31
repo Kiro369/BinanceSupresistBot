@@ -1,0 +1,11 @@
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\BinanceSupresistBot.exe.config
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\BinanceSupresistBot.exe
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\BinanceSupresistBot.pdb
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\obj\Debug\BinanceSupresistBot.csprojAssemblyReference.cache
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\obj\Debug\BinanceSupresistBot.csproj.CoreCompileInputs.cache
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\obj\Debug\BinanceSupresistBot.csproj.CopyComplete
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\obj\Debug\BinanceSupresistBot.exe
+C:\Users\keroh\source\repos\BinanceSupresistBot\BinanceSupresistBot\obj\Debug\BinanceSupresistBot.pdb
